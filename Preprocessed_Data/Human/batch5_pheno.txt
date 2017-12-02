@@ -1,0 +1,10 @@
+	age (yrs)	bmi	ethnicity	gender	subject id	time point	tissue	treated with	weight (kg)	cbmi
+GSM1519923	25	22.5	white	male	NON1O	Control	adipose	HIV Negative Control	71.3	lean
+GSM1519926	26	23.81	black	female	NON13	Control	adipose	HIV Negative Control	72.1	lean
+GSM1519927	28	32.28	black	female	NON14	Control	adipose	HIV Negative Control	96.6	obese
+GSM1519928	37	21.91	black	female	NON15	Control	adipose	HIV Negative Control	57.5	lean
+GSM1519929	25	22.76	white	female	NON-1RN	Control	adipose	HIV Negative Control	56.1	lean
+GSM1519930	39	23.6	white	female	NON2	Control	adipose	HIV Negative Control	56.7	lean
+GSM1519933	42	32.28	black	female	NONO5	Control	adipose	HIV Negative Control	74.1	obese
+GSM1519934	47	33.11	black	male	NON6	Control	adipose	HIV Negative Control	86.9	obese
+GSM1519935	21	19.95	black	female	NON7	Control	adipose	HIV Negative Control	53	lean

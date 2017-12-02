@@ -1,0 +1,14 @@
+Batch_1 GSE2508 Adipose
+Batch_2 GSE26637    Adipose
+Batch_3 GSE27949    Adipose
+Batch_4 GSE48964    Adipose
+Batch_5 GSE62117    Adipose
+Batch_6 GSE64567    Adipose
+Batch_7 GSE33526    Normal_breast
+Batch_8 GSE78958    Breast_tumor
+
+#   Mouse
+
+Batch_9 GSE32095    Epididymal adipose Normal/High fat diet (HFD)
+Batch_10 GSE38337    Epididymal adipose LFD/HFD
+Batch_11

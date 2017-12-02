@@ -1,0 +1,7 @@
+	cbmi
+GSM1187673	obese
+GSM1187674	obese
+GSM1187675	obese
+GSM1187676	lean
+GSM1187677	lean
+GSM1187678	lean

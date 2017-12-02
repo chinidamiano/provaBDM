@@ -1,0 +1,425 @@
+	bmi	patient ethnicity	tumor grade	tumor stage	tumor subtype (via breastprs)
+GSM2082085	25-29.99	European American	Moderately differentiated (grade 2)	Stage IV	Basal Like
+GSM2082086	30+	African American	Poorly differentiated (grade 3)	Stage I	Luminal B
+GSM2082087	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082088	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082089	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082090	Unk	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082091	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082092	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082093	<25	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082094	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082095	<25	African American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082096	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082097	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082098	<25	African American	Moderately differentiated (grade 2)	Stage IV	Basal Like
+GSM2082099	<25	Otherher	Well-differentiated (grade 1)	Stage IIA	Normal-like
+GSM2082100	<25	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082101	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082102	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082103	Unk	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082104	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082105	Unk	European American	Poorly differentiated (grade 3)	Stage IIIC	HER2 enriched
+GSM2082106	<25	African American	Poorly differentiated (grade 3)	Stage IV	Basal Like
+GSM2082107	Unk	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082108	Unk	European American	Moderately differentiated (grade 2)	Stage IV	Luminal A
+GSM2082109	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082110	<25	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082111	Unk	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082112	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082113	30+	European American	Well-differentiated (grade 1)	Stage IIIB	Luminal A
+GSM2082114	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082115	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082116	<25	European American	Poorly differentiated (grade 3)	Stage IIIB	Basal Like
+GSM2082117	25-29.99	Asian	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082118	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082119	30+	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082120	<25	European American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082121	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082122	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082123	<25	European American	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082124	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082125	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082126	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082127	<25	Asian	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082128	<25	European American	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082129	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	Luminal A
+GSM2082130	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082131	<25	European American	Poorly differentiated (grade 3)	Stage IIB	HER2 enriched
+GSM2082132	25-29.99	European American	Poorly differentiated (grade 3)	Stage IV	Luminal B
+GSM2082133	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIA	HER2 enriched
+GSM2082134	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082135	<25	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082136	<25	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082137	<25	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082138	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082139	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082140	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082141	30+	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082142	25-29.99	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082143	30+	African American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082144	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIA	Luminal B
+GSM2082145	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082146	<25	Hispanic	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082147	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082148	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082149	30+	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082150	<25	European American	Moderately differentiated (grade 2)	Stage IIIC	Basal Like
+GSM2082151	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082152	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082153	<25	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082154	Unk	European American	Moderately differentiated (grade 2)	Stage IIIC	Luminal A
+GSM2082155	<25	Hispanic	Moderately differentiated (grade 2)	Stage IIIC	Luminal A
+GSM2082156	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082157	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082158	30+	African American	Poorly differentiated (grade 3)	Stage IV	Basal Like
+GSM2082159	30+	European American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082160	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082161	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Basal Like
+GSM2082162	<25	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082163	25-29.99	African American	Poorly differentiated (grade 3)	Stage IV	Basal Like
+GSM2082164	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Normal-like
+GSM2082165	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082166	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082167	<25	Asian	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082168	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082169	<25	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082170	25-29.99	African American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082171	<25	African American	Moderately differentiated (grade 2)	Stage IIIA	Luminal B
+GSM2082172	<25	African American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082173	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082174	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082175	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	HER2 enriched
+GSM2082176	25-29.99	Asian	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082177	<25	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082178	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Basal Like
+GSM2082179	<25	European American	Poorly differentiated (grade 3)	Stage IIIA	Luminal A
+GSM2082180	30+	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082181	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Normal-like
+GSM2082182	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	HER2 enriched
+GSM2082183	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082184	25-29.99	African American	Poorly differentiated (grade 3)	Stage I	Normal-like
+GSM2082185	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082186	30+	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082187	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082188	30+	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082189	<25	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082190	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082191	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	HER2 enriched
+GSM2082192	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082193	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082194	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082195	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082196	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082197	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082198	30+	African American	Moderately differentiated (grade 2)	Stage IIB	Normal-like
+GSM2082199	25-29.99	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082200	25-29.99	Otherher	Moderately differentiated (grade 2)	Stage I	HER2 enriched
+GSM2082201	<25	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082202	<25	European American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082203	30+	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082204	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082205	25-29.99	European American	Poorly differentiated (grade 3)	Stage IV	Basal Like
+GSM2082206	<25	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082207	25-29.99	African American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082208	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082209	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082210	30+	African American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082211	30+	African American	Well-differentiated (grade 1)	Stage I	Normal-like
+GSM2082212	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082213	25-29.99	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082214	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082215	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082216	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082217	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082218	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082219	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082220	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082221	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082222	30+	African American	Poorly differentiated (grade 3)	Stage IV	Basal Like
+GSM2082223	30+	African American	Poorly differentiated (grade 3)	Stage I	Luminal B
+GSM2082224	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082225	30+	European American	Moderately differentiated (grade 2)	Stage IV	Luminal A
+GSM2082226	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082227	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082228	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082229	<25	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082230	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082231	30+	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082232	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082233	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIA	Luminal A
+GSM2082234	<25	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082235	30+	European American	Poorly differentiated (grade 3)	Stage IV	Luminal B
+GSM2082236	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal B
+GSM2082237	<25	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082238	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082239	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082240	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082241	30+	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082242	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082243	25-29.99	African American	Moderately differentiated (grade 2)	Stage IV	Luminal A
+GSM2082244	30+	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082245	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082246	30+	European American	Poorly differentiated (grade 3)	Stage IIB	HER2 enriched
+GSM2082247	25-29.99	European American	Well-differentiated (grade 1)	Stage IV	Luminal A
+GSM2082248	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082249	30+	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082250	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082251	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082252	30+	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082253	30+	European American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082254	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082255	30+	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082256	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082257	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082258	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082259	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082260	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082261	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082262	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082263	30+	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082264	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082265	<25	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal B
+GSM2082266	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082267	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082268	30+	European American	Moderately differentiated (grade 2)	Stage IIIA	HER2 enriched
+GSM2082269	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082270	<25	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082271	30+	African American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082272	<25	European American	Moderately differentiated (grade 2)	Stage IIIA	HER2 enriched
+GSM2082273	<25	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082274	<25	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082275	30+	European American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082276	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082277	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082278	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082279	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082280	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082281	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082282	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082283	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082284	<25	African American	Moderately differentiated (grade 2)	Stage I	HER2 enriched
+GSM2082285	30+	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082286	30+	European American	Poorly differentiated (grade 3)	Stage IIIB	Luminal B
+GSM2082287	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082288	30+	Otherher	Poorly differentiated (grade 3)	Stage IIIC	HER2 enriched
+GSM2082289	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082290	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082291	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082292	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082293	25-29.99	African American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082294	30+	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082295	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082296	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082297	<25	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082298	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082299	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082300	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082301	<25	Hispanic	Moderately differentiated (grade 2)	Stage IIIC	Luminal A
+GSM2082302	25-29.99	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082303	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082304	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082305	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082306	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082307	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082308	<25	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082309	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082310	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082311	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082312	<25	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082313	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082314	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082315	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082316	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082317	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082318	30+	European American	Well-differentiated (grade 1)	Stage IIIC	Luminal A
+GSM2082319	Unk	Otherher	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082320	30+	European American	Well-differentiated (grade 1)	Stage IIA R	Luminal A
+GSM2082321	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082322	Unk	Otherher	Poorly differentiated (grade 3)	Stage IIIA	Luminal A
+GSM2082323	30+	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082324	30+	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082325	<25	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082326	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082327	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082328	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082329	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082330	25-29.99	European American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082331	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082332	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082333	<25	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082334	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082335	30+	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082336	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082337	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082338	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082339	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082340	25-29.99	African American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082341	25-29.99	Otherher	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082342	<25	European American	Poorly differentiated (grade 3)	Stage I	Luminal B
+GSM2082343	<25	European American	Poorly differentiated (grade 3)	Stage I	Luminal B
+GSM2082344	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082345	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082346	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082347	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082348	30+	African American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082349	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082350	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082351	<25	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082352	<25	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082353	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal B
+GSM2082354	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082355	30+	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082356	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082357	<25	Asian	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082358	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082359	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082360	25-29.99	Asian	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082361	<25	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082362	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082363	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082364	30+	African American	Poorly differentiated (grade 3)	Stage IIB	Luminal A
+GSM2082365	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082366	Unk	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082367	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082368	25-29.99	European American	Moderately differentiated (grade 2)	Stage IV	Basal Like
+GSM2082369	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIB	HER2 enriched
+GSM2082370	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082371	25-29.99	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082372	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082373	30+	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082374	30+	African American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082375	25-29.99	Hispanic	Moderately differentiated (grade 2)	Stage IIA	Basal Like
+GSM2082376	<25	African American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082377	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082378	<25	Asian	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082379	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082380	<25	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082381	30+	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082382	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082383	<25	European American	Moderately differentiated (grade 2)	Stage IIA	HER2 enriched
+GSM2082384	<25	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082385	<25	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082386	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082387	<25	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082388	30+	African American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082389	Unk	European American	Data not available	Unknown	Luminal A
+GSM2082390	30+	African American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082391	Unk	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082392	25-29.99	African American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082393	25-29.99	African American	Poorly differentiated (grade 3)	Stage IIIC	HER2 enriched
+GSM2082394	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082395	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082396	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082397	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082398	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082399	<25	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082400	<25	European American	Well-differentiated (grade 1)	Stage I	Basal Like
+GSM2082401	30+	African American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082402	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082403	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082404	30+	African American	Moderately differentiated (grade 2)	Stage IIIC	Luminal A
+GSM2082405	30+	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082406	30+	African American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082407	30+	African American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082408	<25	African American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082409	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082410	<25	European American	Moderately differentiated (grade 2)	Stage I	HER2 enriched
+GSM2082411	Unk	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082412	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082413	30+	European American	Poorly differentiated (grade 3)	Stage IIA	HER2 enriched
+GSM2082414	<25	European American	Moderately differentiated (grade 2)	Stage IIB	HER2 enriched
+GSM2082415	30+	Hispanic	Poorly differentiated (grade 3)	Stage IIIA	HER2 enriched
+GSM2082416	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082417	Unk	African American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082418	<25	African American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082419	30+	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082420	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082421	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082422	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Basal Like
+GSM2082423	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082424	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Basal Like
+GSM2082425	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082426	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082427	30+	African American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082428	30+	African American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082429	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIA	Basal Like
+GSM2082430	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082431	30+	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082432	<25	European American	Moderately differentiated (grade 2)	Stage IV	Luminal A
+GSM2082433	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082434	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082435	30+	African American	Poorly differentiated (grade 3)	Stage IIB	Luminal A
+GSM2082436	25-29.99	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082437	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal B
+GSM2082438	30+	African American	Poorly differentiated (grade 3)	Stage IIIC	Luminal B
+GSM2082439	25-29.99	African American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082440	25-29.99	Otherher	Poorly differentiated (grade 3)	Stage IIA	Basal Like
+GSM2082441	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082442	<25	African American	Data not available	Stage I	Luminal B
+GSM2082443	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIB	HER2 enriched
+GSM2082444	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082445	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082446	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082447	<25	Asian	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082448	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082449	30+	European American	Poorly differentiated (grade 3)	Stage IIIA	Luminal B
+GSM2082450	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082451	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082452	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082453	30+	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082454	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082455	25-29.99	European American	Poorly differentiated (grade 3)	Stage IV	HER2 enriched
+GSM2082456	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082457	<25	Asian	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082458	30+	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082459	30+	European American	Moderately differentiated (grade 2)	Stage IIIC	HER2 enriched
+GSM2082460	25-29.99	Hispanic	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082461	<25	European American	Poorly differentiated (grade 3)	Stage I	Luminal B
+GSM2082462	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082463	25-29.99	European American	Well-differentiated (grade 1)	Stage IIB	Luminal A
+GSM2082464	<25	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal B
+GSM2082465	25-29.99	European American	Poorly differentiated (grade 3)	Stage I	Luminal A
+GSM2082466	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082467	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082468	<25	European American	Poorly differentiated (grade 3)	Stage I	HER2 enriched
+GSM2082469	<25	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082470	30+	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082471	<25	European American	Poorly differentiated (grade 3)	Stage IIIA	HER2 enriched
+GSM2082472	30+	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082473	<25	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082474	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal B
+GSM2082475	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082476	30+	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082477	30+	European American	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082478	<25	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082479	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082480	<25	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082481	<25	European American	Poorly differentiated (grade 3)	Stage IIB	Basal Like
+GSM2082482	Unk	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082483	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082484	<25	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082485	25-29.99	European American	Poorly differentiated (grade 3)	Stage IIIC	HER2 enriched
+GSM2082486	30+	European American	Poorly differentiated (grade 3)	Stage IIB	HER2 enriched
+GSM2082487	30+	European American	Poorly differentiated (grade 3)	Stage IIIC	Basal Like
+GSM2082488	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082489	25-29.99	Hispanic	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082490	25-29.99	European American	Well-differentiated (grade 1)	Stage IIIA	Luminal A
+GSM2082491	25-29.99	European American	Well-differentiated (grade 1)	Stage IIIC	Luminal A
+GSM2082492	30+	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082493	30+	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082494	25-29.99	European American	Well-differentiated (grade 1)	Stage IIIC	Luminal A
+GSM2082495	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082496	<25	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082497	30+	European American	Moderately differentiated (grade 2)	Stage IIA	Luminal A
+GSM2082498	25-29.99	European American	Well-differentiated (grade 1)	Stage I	Luminal A
+GSM2082499	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIIA	Luminal A
+GSM2082500	<25	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082501	25-29.99	European American	Moderately differentiated (grade 2)	Stage IIB	HER2 enriched
+GSM2082502	25-29.99	European American	Moderately differentiated (grade 2)	Stage I	Luminal A
+GSM2082503	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal A
+GSM2082504	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	Luminal A
+GSM2082505	30+	European American	Moderately differentiated (grade 2)	Stage IIB	Luminal A
+GSM2082506	30+	European American	Poorly differentiated (grade 3)	Stage IIA	Luminal B
+GSM2082507	30+	Asian	Poorly differentiated (grade 3)	Stage IIB	Luminal B
+GSM2082508	25-29.99	European American	Well-differentiated (grade 1)	Stage IIA	HER2 enriched
